@@ -261,6 +261,7 @@ Plug-and-play geospatial web apps:
 - [Fantasy Map Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Free web application for creating and editing fantasy maps. ![GitHub stars](https://img.shields.io/github/stars/Azgaar/Fantasy-Map-Generator?style=social)
 - [GeoLibre](https://github.com/opengeos/GeoLibre) - A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data across desktop and web environments, with a responsive layout for mobile screens. ![GitHub stars](https://img.shields.io/github/stars/opengeos/GeoLibre?style=social)
 - [geotiff.io](http://app.geotiff.io/) - Provides quick access to easy-to-use raster processing.
+- [GIS Toolbox](https://gis.taoliapp.com/) - Browser coordinate and GIS format converter (WGS84/UTM/EPSG/GCJ-02/BD-09; Shapefile/GeoJSON/KML/CSV). Core processing stays on-device.
 - [IMAGE](https://gisco-services.ec.europa.eu/image/) - Tool for generating thematic maps.
 - [Kepler](https://kepler.gl/demo) - A powerful open-source geospatial analysis tool for large-scale datasets.
 - [magrit](https://magrit.cnrs.fr/) - An online application for thematic mapping.
